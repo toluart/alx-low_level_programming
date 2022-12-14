@@ -2,7 +2,8 @@
 
 /**
  * main - check the code.
- *
+ * _islower - compare
+ * @c: contains files
  * Return: 0 Always.
  *
  **/

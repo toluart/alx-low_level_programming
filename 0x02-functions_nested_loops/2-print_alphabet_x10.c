@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * main - alphabet
+ * main - Entry point
  *
- * print_alphabet -> print a - z ten times
+ * Description: print alphabet 10x
  **/
 
-int print_alphabet_x10(void)
+void print_alphabet_x10(void)
 {
 	int i;
 	char j;

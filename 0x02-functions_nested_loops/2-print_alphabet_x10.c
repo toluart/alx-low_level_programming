@@ -6,7 +6,7 @@
  * print_alphabet -> print a - z ten times
  **/
 
-void print_alphabet_x10(void)
+int print_alphabet_x10(void)
 {
 	int i;
 	char j;

@@ -5,7 +5,7 @@
  *
  * Description print_alphabet_x10: print alphabet 10x
  *
- * Return: Always 0.
+ * Return: x10 a-z
  **/
 
 void print_alphabet_x10(void)

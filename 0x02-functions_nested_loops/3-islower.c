@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * main - check the code.
- * _islower - compare
- * @c: contains files
- * Return: 0 Always.
+ * _islower - a function that checks for lowercase character
+ * @c: single letter input
+ * Return: 1 if int c is lowercase, 0 if otherwise
  *
  **/
 
